@@ -23,7 +23,6 @@ export const projectData = [
   {
     image: "/portfolio.png",
     title: "Portfolio",
-    projectLink: "https://mradul-verma.vercel.app",
     description:
       "My Personal Portfolio Website made using React.js ,TailwindCSS and shadcn  ",
   },
